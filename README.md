@@ -12,7 +12,7 @@ I am a Robotics Engineering student currently in the final stages of my degree. 
 
 I’m constantly expanding my knowledge in firmware development, control systems, and real-time communication between hardware and software. I also enjoy designing PCBs and bringing custom electronics to life.
 
-I love building solutions that are productive, innovative, and creative—and I’m always excited to learn something new.
+Currently, I’m deepening my knowledge in computer vision and exploring how to integrate it into robotic systems.
 
 ---
 
@@ -37,19 +37,17 @@ I love building solutions that are productive, innovative, and creative—and I�
 - 🤖 **Gesture-Controlled Car** – Hand gesture recognition with OpenCV + Python + ESP32 over WiFi  
 - 🧹 **Autonomous Rugged Vacuum Robot** – Outdoor cleaning robot with path planning and obstacle avoidance  
 - 🔌 **Custom PCBs** – Designed in Altium and tested in real embedded systems  
-- 📶 **Serial Communication System** – Real-time UART-like communication using a single digital pin
-
 ---
 
 ## 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/alejandro40k">
+<a href="www.linkedin.com/in/alejandro-orozco-romo>
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://github.com/Alejandro40K">
   <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="mailto:alejandro.romo.dev@gmail.com">
+<a href="mailto:alejandroromo1810@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
