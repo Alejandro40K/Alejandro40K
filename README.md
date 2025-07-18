@@ -41,7 +41,7 @@ Currently, I’m deepening my knowledge in computer vision and exploring how to 
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/alejandro-orozco-romo)
+<a href="https://www.linkedin.com/in/alejandro-orozco-romo" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://github.com/Alejandro40K">
