@@ -1,4 +1,4 @@
-## Hola, soy Alejandro 👋
+## Hello, my name is Alejandro 👋
 
 <!--
 **Alejandro40K/Alejandro40K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
